@@ -21,3 +21,11 @@ Douglas Ryan Silva Maciel
 
 ## Site Online
 https://ryansilva1425ni-source.github.io/portfolioHUB/
+## Implantação Final
+
+Este projeto foi atualizado para a atividade final de implantação do PortfolioHUB.
+
+Ferramentas utilizadas:
+- GitHub
+- GitHub Pages
+- Google Gemini
